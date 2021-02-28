@@ -1,0 +1,3 @@
+# Brooke Laird's Open Source GIScience Work
+* Hi there! My name is Brooke and I am a junior geography and environmental studies major at Middlebury. 
+* I am excited to learn more about the world of Open Source GIS, and share my work, progress, and reflections on this page.
