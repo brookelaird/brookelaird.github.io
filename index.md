@@ -8,3 +8,7 @@ Hi there! My name is Brooke and I am a junior Geography and Environmental Studie
 
 
 - [The Gravity Model of Spatial Interaction](gravity/gravity.md)
+
+## Reflections
+- [What is Open Source GIScience?](reflections/open-source.md)
+- future blog posts 
