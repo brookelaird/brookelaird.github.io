@@ -11,4 +11,4 @@ Hi there! My name is Brooke and I am a junior Geography and Environmental Studie
 
 ## Reflections
 1. [What is Open Source GIScience?](reflection/open-source.md)
-2. future blog posts
+2. [GIS as a Replicable and Reproducable Science](reflection/blogpost2.md) 
