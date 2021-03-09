@@ -56,4 +56,4 @@ as well as static maps shown below that illustrate the same layers.
 
 The results show similarities between the Dartmouth Health Areas, and while the results of this model are not horribly inaccurate, this model could be further developed to better reflect the intended purpose, and to be replicated in a broad scope of other geospatial processes.
 
-I would like to thank Joe Holler and the rest of the Open Source GIS Class for the collaboration and communal troubleshooting that made this project possible.
+I would like to thank Joe Holler and the rest of the Open Source GIS Class for the collaboration and communal troubleshooting that made this project possible!
