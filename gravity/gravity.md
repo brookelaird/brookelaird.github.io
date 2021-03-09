@@ -3,7 +3,7 @@ layout: page
 title: Gravity Model for QGIS
 ---
 
-Welcome to my work exploring the development of model building in QGIS, 
+Welcome to my work exploring the development of model building in QGIS,
 specifically for the gravity model of spatial interaction.
 This model can be applied to determine catchment areas for any type of services,
 and in this example the model is run to determine hospital services areas.
@@ -29,7 +29,7 @@ have the highest access to these pandemic resources.
 Before beginning the model I performed a set of preprocessing steps on the
 hospital data, which was downloaded from the [Dartmouth Health Atlas](https://hifld-geoplatform.opendata.arcgis.com/datasets/6ac5e325468c4cb9b905f1728d6fbf0f_0).
 
-![preprocessing workflow](gravity/preprocessworkflow.png)
+![preprocessing workflow](assets/preprocessworkflow.png)
 
 While further steps could transform this workflow into a
 stand alone function, I chose to instead use a workflow because
@@ -37,9 +37,9 @@ of the broad, and often data specific preprocessing steps that
 are needed to prepare data for the Gravity Model.
 
 **Model for QGIS**
-The .model3 file for my model can be found [here](gravity/gravityModel.model3)!
+The .model3 file for my model can be found [here](assets/gravityModel.model3)!
 
-![model workflow image](gravity/modelsteps.png)
+![model workflow image](assets/modelsteps.png)
 
 
 **Map Deliverables**
@@ -51,7 +51,7 @@ You can check out the interactive web map [here](assets/index.html)
 
 as well as static maps shown below that illustrate the same layers.
 
-![static map deliverable](gravity/staticMap.png)
+![static map deliverable](assets/staticMap.png)
 
 
 The results show similarities between the Dartmouth Health Areas, and while the results of this model are not horribly inaccurate, this model could be further developed to better reflect the intended purpose, and to be replicated in a broad scope of other geospatial processes.
