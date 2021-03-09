@@ -29,7 +29,7 @@ have the highest access to these pandemic resources.
 Before beginning the model I performed a set of preprocessing steps on the
 hospital data, which was downloaded from the [Dartmouth Health Atlas](https://hifld-geoplatform.opendata.arcgis.com/datasets/6ac5e325468c4cb9b905f1728d6fbf0f_0).
 
-![preprocessing workflow](assets/preprocessworkflow.png)
+![preprocessing workflow](gravity/preprocessworkflow.png)
 
 While further steps could transform this workflow into a
 stand alone function, I chose to instead use a workflow because
