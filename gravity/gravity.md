@@ -8,6 +8,8 @@ specifically for the gravity model of spatial interaction.
 This model can be applied to determine catchment areas for any type of services,
 and in this example the model is run to determine hospital services areas.
 
+**How to Apply the Gravity Model**
+
 In a brief summary, the model works by taking an origin destination with a
 specified input/origin weight, and a target destination (point layer). The model
 uses variable of weight/attractiveness, and distance between the origin and the
@@ -57,3 +59,5 @@ as well as static maps shown below that illustrate the same layers.
 The results show similarities between the Dartmouth Health Areas, and while the results of this model are not horribly inaccurate, this model could be further developed to better reflect the intended purpose, and to be replicated in a broad scope of other geospatial processes.
 
 I would like to thank Joe Holler and the rest of the Open Source GIS Class for the collaboration and communal troubleshooting that made this project possible!
+Special thanks to my peer and friend Emma Brown for working through some of the
+model issues with me, and for keeping me on track. 
