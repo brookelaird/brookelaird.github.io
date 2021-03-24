@@ -8,9 +8,9 @@ Hi there! My name is Brooke and I am a junior Geography and Environmental Studie
 
 ## GIScience Analyses
 1. [The Gravity Model of Spatial Interaction](gravity/gravity.md)
+2. [Replication of the Rosgen Stream Classification](rosgen/finalReport.md)
 
 ## Reflections
 1. [What is Open Source GIScience?](reflection/open-source.md)
 2. [GIS as a Replicable and Reproducable Science](reflection/blogpost-2.md)
 3. [Error and Uncertainty in GIScience](reflection/blogpost-3.md)
- 
