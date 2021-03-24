@@ -52,11 +52,9 @@ Figures to Include:
 ![Cross-sectional profile graph](rosgen/crossProf2)
 ![Flood Prone Width](rosgen/floodProneWidth)
 
-Tables to Include:
-
 Table 1. Site Measurements
-| Variable | Value | Source |
-| :-: | :-: | :-: |
+|Variable | Value | Source|
+ |:-: | :-: | :-: |
 | Bankfull Width | 7.53 m | BFWdth_AVG from CHaMP Data |
 | Bankfull Maximum Depth | .9998m | DpthBf_Max from CHaMP Data |
 | Valley Width | 70m | Measured from Terrain Cross-Section Graph (R output) |
@@ -66,17 +64,17 @@ Table 1. Site Measurements
 | Median Channel Material Particle Diameter | 32mm | SubD50 from CHaMP Data |
 
 Table 2. Rosgen Level I Classification
-| Criteria | Value |
-| :-: | :-: |
+|Criteria | Value|
+| :-: | :-:|
 | Entrenchment Ratio | 9.30 |
 | Width / Depth Ratio | 20.20|
 | Sinuosity | 1.327 |
 | Level I Stream Type | C |
 
 Table 3. Rosgen Level II Classification
-| Criteria | Value |
-| :-: | :-: |
-| Slope | .0032 |
+|Criteria | Value|
+| :-: | :-:|
+| Slope | .0032|
 | Channel Material | Gravel|
 | Level II Stream Type | C4 |
 
