@@ -6,7 +6,7 @@ This week in our reading of *Geographic Information Systems and Science* by Long
 
 In figure 6.1 of the chapter, Longley et al. illustrate the linked pathways and filers that lead to the build up of uncertainty. This pathway addresses the uncertainty in research as you move from the real world to analysis, while creating conceptions of this real world, and taking steps to measure and represent the processes at hand.
 
-![steps of uncertainty](reflection/figure.png)
+![steps of uncertainty](figure.png)
 
 This was an important diagram for me, because while I have thought about the uncertainty that stems from problems in measurement, representation, and analysis, I rarely think that my conceptions of the real world could lead to uncertainty in my geographic work. However, there are various instances where my conceptions of the real world may have created a greater degree of uncertainty in my produced work, such as the process of ground truthing classification points based on my perception of how land cover should be classified, or creating buffers around a central business district that is defined by my consideration of what the CBD is.
 
