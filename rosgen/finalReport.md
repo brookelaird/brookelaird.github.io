@@ -44,13 +44,13 @@ Lastly, the outputs from GRASS and R. Studio, along with data from the Champs at
 ##Results
 
 Figures to Include:
-![map of the study site shaded elevation](rosgen/dem.png)
-![map of the study site slope](rosgen/slopeIllustration.png)
-![Map of the study site stream/river centerlines and final mean centerline](rosgen/stream.png)
-![Map of the study site valley centerlines and final mean centerline](rosgen/valley.png)
-![Longitudinal profile graph with elevation and slope](rosgen/longitudinalprofile)
-![Cross-sectional profile graph](rosgen/crossProf2)
-![Flood Prone Width](rosgen/floodProneWidth)
+![map of the study site shaded elevation](dem.png)
+![map of the study site slope](slopeIllustration.png)
+![Map of the study site stream/river centerlines and final mean centerline](stream.png)
+![Map of the study site valley centerlines and final mean centerline](valley.png)
+![Longitudinal profile graph with elevation and slope](longitudinalprofile)
+![Cross-sectional profile graph](crossProf2)
+![Flood Prone Width](floodProneWidth)
 
 Table 1. Site Measurements
 |Variable | Value | Source|
