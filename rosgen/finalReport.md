@@ -38,8 +38,8 @@ The R. Studio instructions can be found [here](assets/2-ProfileViewer.Rmd), and 
 
 Lastly, the outputs from GRASS and R. Studio, along with data from the Champs attribute table in GRASS can be utilized to reach an end classification for levels I and II of the Rosgen Classification, illustrated below. [Source: EPA Website](https://cfpub.epa.gov/watertrain/moduleframe.cfm?parent_object_id=1189)
 
-![EPA CLassification](rosgen/rosgen_level2.jpg)
-![Helpful Figure](rosgen/s07.gif)
+![EPA CLassification](rosgen_level2.jpg)
+![Helpful Figure](s07.gif)
 
 ##Results
 
