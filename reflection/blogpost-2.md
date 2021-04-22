@@ -4,14 +4,14 @@ title: Reproducibility, Replicability, and GIS as a Science
 ---
 This week we explored the topics of GIS as a science, and if/how open source GIS can help with improving reproducibility and replicability within science. Before deciding if GIS should be considered a science, (or if instead it should be viewed as a tool), it is important to decide in what ways we define science, and scientific work. In Chapter 2 of *Reproducibility and Replicability*, the authors explore the definition of sciences, and the ways in which science and science principles have developed. The chapter also states 5 core principles and assumptions regarding scientific inquiry, that include:
 
-“
-Nature is not Capricious
-Knowledge grows through exploration of the limits of existing rules and mutually reinforcing evidence.
-Science is a communal enterprise.
-Science aims for refined degrees of confidence rather than complete certainty.
-Scientific knowledge is durable and mutable.“  
+> “
+>Nature is not Capricious
+>Knowledge grows through exploration of the limits of existing rules and mutually reinforcing evidence.
+>Science is a communal enterprise.
+>Science aims for refined degrees of confidence rather than complete certainty.
+>Scientific knowledge is durable and mutable.“  
 
-(pg 30).
+>(pg 30).
 
 These 5 core principles reflect the broad nature of scientific work, and with this framework for defining scientific inquiry I believe that GIS, and especially open source GIS, should be considered a science. The third principle--that science is a communal enterprise-- stood out to me specifically when considering the scientific validity of open source GIS, as it reflects the importance of communal and collaborative work in achieving meaningful problem solving.
 
