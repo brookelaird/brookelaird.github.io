@@ -10,6 +10,7 @@ Hi there! My name is Brooke and I am a junior Geography and Environmental Studie
 1. [The Gravity Model of Spatial Interaction](gravity/gravity.md)
 2. [Replication of the Rosgen Stream Classification](rosgen/finalReport.md)
 3. [Analyzing Flood Risk to Schools in Dar es Salaam, Tanzania](daressalaam/report.md)
+4. [Vulnerability modeling for sub-Saharan Africa](malcomb/report.md) 
 
 ## Reflections
 1. [What is Open Source GIScience?](reflection/open-source.md)
