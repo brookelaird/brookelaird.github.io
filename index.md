@@ -18,3 +18,5 @@ Hi there! My name is Brooke and I am a junior Geography and Environmental Studie
 2. [GIS as a Replicable and Reproducable Science](reflection/blogpost-2.md)
 3. [Error and Uncertainty in GIScience](reflection/blogpost-3.md)
 4. [Spatial, Temporal, and Content Analysis of Twitter for Wildfire Hazards](reflection/blogpost-4.md)
+5. [Crowd-sourced and Volunteered Geographic Information](reflection/blogpost-5.md)
+6. [Reproducibility and Ethical Geospatial Reserach](reflection/blogpost-6.md)
