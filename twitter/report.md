@@ -15,6 +15,7 @@ Replication Author: Brooke Laird
 
 
 Replication Materials Available at: [brookelaird.github.io](brookelaird.github.io)
+Full respository available [here](https://github.com/brookelaird/twitterAPI/tree/main/RE-Dorian-main)
 
 Created: `04 May 2021`
 Revised: `10 May 2021`
