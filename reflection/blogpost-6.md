@@ -2,7 +2,7 @@
 layout: page
 title: “Reproducibility and Ethical Geospatial Reserach”
 ---
-As big data sources become increasingly available in the public domain for analysis and visualization, it is necessary to consider the ethics in expanding this type of work. In a recent webinar provided by the [Geospatial Fellows Webinar Series](https://gsi.cigi.illinois.edu/geospatial-fellows-webinar-series/) , researcher and professor Xun Shi presented his strategy for transitioning to a bottom up approach for epidemic modeling, in comparison to a traditional top down approach. For a summary of the webinar and more general information, you can visit the Github pages of my peers: Alitzel and Arielle.  
+As big data sources become increasingly available in the public domain for analysis and visualization, it is necessary to consider the ethics in expanding this type of work. In a recent webinar provided by the [Geospatial Fellows Webinar Series](https://gsi.cigi.illinois.edu/geospatial-fellows-webinar-series/) , researcher and professor Xun Shi presented his strategy for transitioning to a bottom up approach for epidemic modeling, in comparison to a traditional top down approach. For a summary of the webinar and more general information, you can visit the Github pages of my peers: [Alitzel](https://avillanueva1005.github.io/blogs/webinardebate.html) and [Arielle](https://alandaux.github.io/musings/reproducibilityEthics.html).  
 
 I believe that the bottom up approach that Xun Shi introduces should be further implemented and expanded in the world of geospatial research, and the study of epidemics and other human-environmental interactions. When data at the individual level is available, and follows privacy and ethnic guidelines, a bottom up approach is a strong way to
 

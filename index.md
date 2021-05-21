@@ -20,3 +20,16 @@ Hi there! My name is Brooke and I am a junior Geography and Environmental Studie
 4. [Spatial, Temporal, and Content Analysis of Twitter for Wildfire Hazards](reflection/blogpost-4.md)
 5. [Crowd-sourced and Volunteered Geographic Information](reflection/blogpost-5.md)
 6. [Reproducibility and Ethical Geospatial Reserach](reflection/blogpost-6.md)
+
+# Additional Work in Geography
+Outside of my projects and reflections in Open Source GIScience, I have completed work in cartography, remote sensing, and climate and development geographies. You can check out some of my additional work at the links below!
+
+## Cartography
+1. [Historic Redlining in the City of Boston](Cartography/bostonRedlining.png)
+2. [Solar Panel Site Selection](Cartography/sitedecision.png)
+3. [Development Challenges of Vermont's Natural Landscape](Cartography/solarDev.png)
+4. [The Power of Local Level Conservation](Cartography/localconservation.png)
+5. [Wetland Composition of Coastal Maine](Cartography/mainewetlands.png)
+
+## Climate Change, Adaptation and Development
+This semester I have conducted an analysis of wetland restoration and development efforts in the Southern Iraqi Marshlands as a term paper for my senior seminar, Geographies of Climate Change and Adaptation. You can check out my final paper [here!](GEOG438/report.pdf)
