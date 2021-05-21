@@ -2,13 +2,11 @@
 layout: page
 title: RE- Replication of Rosgen Stream Classification
 ---
-layout: page
-title: RE- Replication of Rosgen Stream Classification
----
+
 
 
 **Replication of**
-# A classification of natural rivers
+### A classification of natural rivers
 
 Original study *by* Rosgen, D. L.
 *in* *CATENA* 22 (3):169–199. https://linkinghub.elsevier.com/retrieve/pii/0341816294900019.
@@ -26,7 +24,7 @@ Revised: `23 March 2021`
 ### Introduction and Motivation:
 The classification of river systems is crucial for land planning, watershed management, environmental restoration, and the overall understanding of the dynamic hydrosystems that make up earth's natural environment. While classification systems can run the risk of oversimplifying a complex environment that is home to uniqueness at a variety of scales, the use of GIS tools for implementing a reproducible schema helps with making land planning decisions that can ultimately work to benefit the natural systems, and the livelihoods of the people in nearby communities by predicting the future behavior of the streams. In this analysis we replicated the Rosgen Classification of Natural Rivers, a stream classifications system that is broadly utilized in hydrosystems around the world. Additionally, by reviewing and comparing  Rosgen to a replication study by Kasprak et al. we can gain a stronger understanding of the ways that Rosgen has been deemed successful, how this classification can be critiqued, and how it compares to the three other stream classification methods. Despite strong levels of similarity across the 4 methods, Kasprak et al. emphasize that stream classification can differ due to differences in scale and the weight of certain elements of classification. By replicating the Kasprak study and the methods first developed by Rosgen, we can gain a greater understanding of how stream classification can be performed solely through a GIS approach, and the potential shortcomings of physical geography work that is done without engagement in the field.
 
-##Materials and Procedure:
+### Materials and Procedure:
 
 Within the [Rosgen repository](https://github.com/brookelaird/RE-rosgen) you can find links to code and materials used to conduct the lab.
 
@@ -41,7 +39,7 @@ Lastly, the outputs from GRASS and R. Studio, along with data from the Champs at
 ![EPA CLassification](rosgen_level2.jpg)
 ![Helpful Figure](s07.gif)
 
-##Results
+### Results
 
 Figures to Include:
 ![map of the study site shaded elevation](dem.png)
@@ -88,14 +86,14 @@ I did not run into many unplanned deviations from the original replication proto
 
 ## Discussion
 
-My analysis at my CHaMP data point (loc_22) classified the river to be a C4, which in the original Rosgen classification paper is listed as a region that has very high sensitivity to disturbance, high likelihood for natural recovery if instability occurs, high sediment supply, and high levels of stream bank erosion. In the Kasprak paper, however, my CHaMP testing location is classified as a A4, deviating from my classification due to differences in the initial entrenchment ratio. The Kasprak paper uses the same field data for the classification, therefore the differences in the classification outcome from the data that we derived from the LiDAR DEM, and slope, and our digitized vector lines on that dataset. Lastly, it is noted that the attribute table for the CHaMP data listed the site as a G4c. Even though the CHaMP data for my site could be potentially outdated (taken in 2012) it is likely that the variations in the Rosgen classification results stem from potential digitizing errors, the lack of ground truthing/field assessment, and a scale that is further zoomed out than in the other two studies.
+My analysis at my CHaMP data point (loc_22) classified the river to be a C4, which in the original Rosgen classification paper is listed as a region that has very high sensitivity to disturbance, high likelihood for natural recovery if instability occurs, high sediment supply, and high levels of stream bank erosion. In the Kasprak paper, however, my CHaMP testing location is classified as a A4, deviating from my classification due to differences in the initial entrenchment ratio. The Kasprak paper uses the same field data for the classification, therefore the differences in the classification outcome from the data that we derived from the LiDAR DEM, and slope, and our digitized vector lines on that dataset. Lastly, it is noted that the attribute table for the CHaMP data listed the site as a G4c. Even though the CHaMP data for my site could be potentially outdated (taken in 2012) it is likely that the variations in the Rosgen classification results stem from potential digitizing errors, the lack of ground truthing/field assessment, and a scale that is a coarser spatial resolution than in the other two studies.
 
 
 ## Conclusion
 
 This reproduction of both the Rosgen paper and classification, and the Kasprak replication illustrate uncertainty within GIS work and the importance of remaining critical of the tools available at your disposal. Additionally, Kasprak reminds us that while the Rosgen Classification Schema has been widely adopted, there are other methods of river classification that may be better utilized at different locations, or at different scales.
 
-If this was a larger scale project I would have taken further steps to compare the outcome of my Rosgen Classification replication with some of the other methods discussed by Kasprak, such as the River Styles Framework, the Natural Channel Classification and a statistical classification. Additionally, I am curious how other elements of remote sensing beside Digital Elevation Models could be useful to a river classification, such as potentially using public datasets like NAIP or Landsat to conduct a land cover classification or monitoring the changing pathways of a river system over a certain temporal window. Further research on river classification schema, GIS methods for classification, and field analysis are always necessary for helping to refine and improve river classification systems--especially with increased levels of climate disasters in recent decades.
+If this was a larger scale project I would have taken further steps to compare the outcome of my Rosgen Classification replication with some of the other methods discussed by Kasprak, such as the River Styles Framework, the Natural Channel Classification and a statistical classification. Additionally, I am curious how other elements of remote sensing beside Digital Elevation Models could be useful to a river classification, such as potentially using public datasets like NAIP to conduct a land cover classification or monitoring the changing pathways of a river system over a certain temporal window. Further research on river classification schema, GIS methods for classification, and field analysis are always necessary for helping to refine and improve river classification systems--especially with increased levels of climate disasters in recent decades.
 
 
 ## References
