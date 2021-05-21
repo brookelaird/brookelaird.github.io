@@ -7,8 +7,10 @@ As big data sources become increasingly available in the public domain for analy
 I believe that the bottom up approach that Xun Shi introduces should be further implemented and expanded in the world of geospatial research, and the study of epidemics and other human-environmental interactions. When data at the individual level is available, and follows privacy and ethnic guidelines, a bottom up approach is a strong way to
 
 > (1)Prevent simplification of results and errors of ecological >fallacy
+> 
 >(2) Depict the reality that communities to have variation and >complexity in the ways people interact with space
->(3) Allow for the development of stronger epidemic modeling and >concrete and detailed analysis, which can be implemented in new, >community centered, local policy.
+>
+>(3) Allow for the development of stronger epidemic modeling and >concrete and detailed analysis, which can be implemented in >new, community centered, local policy.
 
 >(Xun Shi, 2021)
 
