@@ -32,4 +32,4 @@ Outside of my projects and reflections in Open Source GIScience, I have complete
 5. [Wetland Composition of Coastal Maine](Cartography/mainewetlands.png)
 
 ## Climate Change, Adaptation and Development
-This semester I have conducted an analysis of wetland restoration and development efforts in the Southern Iraqi Marshlands as a term paper for my senior seminar, Geographies of Climate Change and Adaptation. You can check out my final paper [here!](GEOG438/report.pdf)
+This semester I have conducted an analysis of wetland restoration and development efforts in the Southern Iraqi Marshlands as a term paper for my senior seminar, Geographies of Climate Change and Adaptation. You can check out my final paper [here!](GEOG438/marshpolicy.pdf)
