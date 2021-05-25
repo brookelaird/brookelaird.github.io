@@ -5,7 +5,7 @@ title: RE- Spatial-temporal and content analysis of Twitter Data
 
 
 **Replication of**
-# Spatial, temporal and content analysis of Twitter data
+## Spatial, temporal and content analysis of Twitter data
 
 Original study *by* Wang, Z., X. Ye, and M. H. Tsou. 2016. Spatial, temporal, and content analysis of Twitter for wildfire hazards. *Natural Hazards* 83 (1):523–540. DOI:[10.1007/s11069-016-2329-6](https://doi.org/10.1007/s11069-016-2329-6).
 and
@@ -18,11 +18,11 @@ Replication Materials Available at: [brookelaird.github.io](brookelaird.github.i
 Full respository available [here](https://github.com/brookelaird/twitterAPI/tree/main/RE-Dorian-main)
 
 Created: `04 May 2021`
-Revised: `10 May 2021`
+Revised: `25 May 2021`
 
 ## Abstract
 
-Why study the spatial distribution of Twitter data?
+*Why study the spatial distribution of Twitter data?*
 
 Wang et al (2016) analyzed Twitter data for wildfires in California, finding that the social media data served as a useful tool in characterizing the trends of wildfires across space, and the ways that local community members and groups--specifically local media/news groups and government authorities--can use social media to spread news of disaster updates. While social media has always been a useful piece of data for studying the trends in populations, the increase in geotagged tweets (and other examples of social media data) as a geospatial tool helps with tracking trends that reflect dominant flows of information with a spatial dimension.
 
@@ -30,7 +30,7 @@ Holler (2021) is studying Twitter data for Hurricane Dorian on the Atlantic coas
 
 Reproducing and replicating spatial research of these two studies, and API research and mapping more generally, continues to be relevant because the increase in studies involving the spatial distribution of twitter data helps to identify areas where API based research can be improved, and also areas where this research has lead to great advancements and new findings.
 
-In this replication study, I will examine the spatial distribution of twitter data that contains the words "vaccine" "pfizer" and "moderna." I centered my analysis on the city of Atlanta, Georgia, and will use twitter data that is available for an 1,000 km buffer around the point, between the temporal window of May 5-May 9, 2021.  My classmates, Emma Brown and Hannah Rigdon, will be completing the same analysis but for different regions of the United States, in hopes of completing a full national map illustrating the spatial distribution of twitter data about Covid-19 vaccinations.
+In this replication study, I will examine the spatial distribution of twitter data that contains the words "vaccine" "pfizer" and "moderna." I centered my analysis on the city of Atlanta, Georgia, and will use twitter data that is available for an 1,000 km buffer around the point, between the temporal window of May 5-May 9, 2021.  My classmates, [Emma Brown](https://emmab725.github.io/Twitter/Twitter-Report.html) and [Hannah Rigdon](https://hrigdon98.github.io/dorian/report.html), will be completing the same analysis but for different regions of the United States, in hopes of completing a full national map illustrating the spatial distribution of twitter data about Covid-19 vaccinations.
 
 
 ## Original Study Information
@@ -48,23 +48,23 @@ The replication study by Holler (2021) used R, including the rtweet, rehydratoR,
 
 In my replication of Wang et al (2016) and Holler (2021) I focused on original tweet data, similar to the modification that Holler (2021) chose. Tweets with the words "vaccine" "pfizer" and "moderna" were chosen for analysis. This first round of data downloading produced 118,110 tweets that fit the parameters. These tweet IDs, in the form of a data table, can be found [here](code/vaccineids.txt). Tweets were then filtered to focus on those with a geographic dimension, resulting in the generation of 3,407 tweets to be analyzed spatially.
 
-I also ran a search on all tweets for the 6 day period of the vaccine data, to get a baseline understanding of twitter activity in that location for the time window. The spatial clustering map was normalized by this data, so that areas of high population density were not favored in the analysis. Data was also normalized by population density, with population density per county generated from US Census 2010 estimates.
+I also ran a search on all tweets for the 6 day period of the vaccine data, to get a baseline understanding of twitter activity in that location for the time window. This did result in one area of uncertainty and error, however, because my data was stopped and reloaded after an incomplete search. In future studies I would make sure to have a complete 6 day window with no temporal break, so that the data more accurately reflects twitter activity for that six day window. The spatial clustering map was normalized by this data, so that areas of high population density were not favored in the analysis. Data was also normalized by population density, with population density per county generated from US Census 2010 estimates.
 
 (add in another section here about next steps in analysis for comparing hot spots to areas of vaccine administration data, or vaccination rates)
 
 ## Replication Results
 
 - ![temporal analysis graph](figures/temporal.png)
-This temporal analysis graph shows when tweets that contained our words of interest (vaccine, pfizer, moderna) were most trending during the 6 day window.
+**Figure 1: Temporal Analysis Graph**: This temporal analysis graph shows when tweets that contained our words of interest (vaccine, pfizer, moderna) were most trending during the 6 day window.
 
 - ![content analysis graph](figures/content.png)
-A content analysis graph of the most popular words, and words that were linked together, demonstrate the language that was most frequently used in the tweets. An interesting finding here is the stronger linkage between vaccine and support, over vaccine and hesitancy. However, tweets that contained the word hesitancy do not indicate places where there was hesitancy, instead it shows that vaccine twitter language is more frequently using positive language (support). Furthermore, the links between vaccine and clinic show that twitter is a dominant way that individuals may be able to find out about vaccination opportunities near them.
+**Figure 2: Content Analysis Graph**: A content analysis graph of the most popular words, and words that were linked together, demonstrate the language that was most frequently used in the tweets. An interesting finding here is the stronger linkage between vaccine and support, over vaccine and hesitancy. However, tweets that contained the word hesitancy do not indicate places where there was hesitancy, instead it shows that vaccine twitter language is more frequently using positive language (support). Furthermore, the links between vaccine and clinic show that twitter is a dominant way that individuals may be able to find out about vaccination opportunities near them.
 
 - ![map of twitter activity](figures/tweetmap.png)
-Tweet locations normalized by population density help to illustrate where tweets were most dominant. Tweet locations still tended to be concentrated in urban areas, which may reflect a common demographic of twitter users (young, urban, educated) (Crawford 2014).
+**Figure 3: Map of Twitter Activity**:Tweet locations normalized by population density help to illustrate where tweets were most dominant. Tweet locations still tended to be concentrated in urban areas, which may reflect a common demographic of twitter users (young, urban, educated) (Crawford 2014).
 
 - ![hot spot analysis](figures/hotspots.png)
-This hot spot analysis map illustrates the clusters of tweets mentioning vaccinations for the buffer around the city of Atlanta, Georgia (not the entire United States). The cluster in southern Florida is interesting, as that is an area that has been a popular travel destination recently.
+**Figure 4: Hot Spot Analysis**:This hot spot analysis map illustrates the clusters of tweets mentioning vaccinations for the buffer around the city of Atlanta, Georgia (not the entire United States). The cluster in southern Florida is interesting, as that is an area that has been a popular travel destination recently.
 
 ## Unplanned Deviations from the Protocol
 
@@ -72,19 +72,18 @@ There were few deviations from the replication of the Holler (2021) Hurricane Do
 
 ## Discussion
 
-Provide a summary and interpretation of your key findings in relation to your research question. Mention if findings confirm or contradict patterns observed by Wang et al (2016) or by Holler (2
-
-In summary, the findings of this replication reveal interesting patterns in the types of vaccine related tweets being produced, and the regions where these are most dominant. The high level of tweets that contained words related to employment reveal an interesting trend: that twitter is being used as a way to spread information about vaccine related employment. As the United States continues to find ways to revive the job market, the use of API data and social media will be useful to see if other job markets are using social media as a way to spread information about job opportunity.
-
-Furthermore,  
+In summary, the findings of this replication reveal interesting patterns in the types of vaccine related tweets being produced, and the regions where these are most dominant. The high level of tweets that contained words related to employment reveal an interesting trend: that twitter is being used as a way to spread information about vaccine related employment. As the United States continues to find ways to revive the job market, the use of API data and social media will be useful to see if other job markets are using social media as a way to spread information about job opportunity. It is also interesting to note the differences between the spatial distribution of COVID related tweets in comparison to the previous referenced studies, such as Wang (2016) and Holler (2021). One of the largest difference is the magnitude and scale at which these topics are being discussed. While instances of natural disaster are sometimes nationwide news events, they are much more regionally based. We see this in Wang (2016) as many of the local news outlets in the area are responsible for the spread of information. In regards to the vaccine data, this is a much larger national, and even global, topic of discussion, that has less of a geographic component. Further reserach that compares the hot spots of vaccine tweets to vaccine rates, covid rates, or vaccine related protocols and mass distribution would be useful in understanding what drives twitter activity around this topic. Another significant difference between vaccine related tweet and tweets about natural disasters are that the vaccine tweets maintain popularity over a large time window. Since vaccine roleout is still occuring nationwide, there is less of a difference in the temporal activity of this topic (figure 1) because there is not one specific day where a natural disaster occurred, instead there is ongoing phasing of vaccines and policy implementation and shifts.
 
 ## Conclusion
 
 This reproduction of both Wang et al. and Holler is a useful tool for starting to use twitter data as a means for examining the spatial distribution of major events--whether they be natural disasters, political moments, or popular trends. As the Covid-19 pandemic shifts in new ways with an increase in vaccination, new variants, and a potential shift to lower regulations, twitter is one place to gather useful data that reflects how different populations share and spread information about these topics.
 
 ## References
+Crawford, K., and M. Finn. 2014. The limits of crisis data: analytical and ethical challenges of using social and mobile data to understand disasters. GeoJournal 80 (4):491–502. DOI:10.1007/s10708-014-9597-z
 
-Include any referenced studies or materials in the [AAG Style of author-date referencing](https://www.tandf.co.uk//journals/authors/style/reference/tf_USChicagoB.pdf).
+Wang, Z., X. Ye, and M. H. Tsou. 2016. Spatial, temporal, and content analysis of Twitter for wildfire hazards. Natural Hazards 83 (1):523–540. DOI:10.1007/s11069-016-2329-6
+
+
 
 ####  Report Template References & License
 
