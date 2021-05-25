@@ -12,6 +12,7 @@ Hi there! My name is Brooke and I am a junior Geography and Environmental Studie
 3. [Analyzing Flood Risk to Schools in Dar es Salaam, Tanzania](daressalaam/report.md)
 4. [Vulnerability modeling for sub-Saharan Africa](malcomb/report.md)
 5. [Spatial-temporal and content analysis of Twitter Data](twitter/report.md)
+6. [Spatial Accessibility of COVID-19 Healthcare Resources](kang/report.md)
 
 ## Reflections
 1. [What is Open Source GIScience?](reflection/open-source.md)
