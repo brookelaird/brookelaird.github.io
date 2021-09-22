@@ -3,10 +3,6 @@ title: Main Page
 layout: default
 ---
 
-# Brooke Laird
-Hi there! My name is Brooke and I am a senior Geography and Environmental Studies major at Middlebury College. I am passionate about using GIS, remote sensing techniques, and cartographic design to expand on studies of environmental justice, climate change adaptation, and landcover change.
-
-On this page you will find my work from various courses, independent study, and research positions.
 
 ## Open Source GIScience Analyses
 1. [The Gravity Model of Spatial Interaction](gravity/gravity.md)
