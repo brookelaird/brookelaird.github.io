@@ -21,11 +21,13 @@ layout: default
 6. [Reproducibility and Ethical Geospatial Reserach](reflection/blogpost-6.md)
 
 ## Cartography
-1. [Historic Redlining in the City of Boston](Cartography/bostonRedlining.png)
-2. [Solar Panel Site Selection](Cartography/sitedecision.png)
-3. [Development Challenges of Vermont's Natural Landscape](Cartography/solarDev.png)
-4. [The Power of Local Level Conservation](Cartography/localconservation.png)
-5. [Wetland Composition of Coastal Maine](Cartography/mainewetlands.png)
+1. Otter View Park new Brochure [page 1](Cartography/OVP_page1.png) and [page 2](Cartography/OVP_page2.png)
+2. [Willard's Woods Context Map](contextMap.png), 1/7 figures for a full Baseline Document Report
+3. [Historic Redlining in the City of Boston](Cartography/bostonRedlining.png)
+4. [Solar Panel Site Selection](Cartography/sitedecision.png)
+5. [Development Challenges of Vermont's Natural Landscape](Cartography/solarDev.png)
+6. [The Power of Local Level Conservation](Cartography/localconservation.png)
+7. [Wetland Composition of Coastal Maine](Cartography/mainewetlands.png)
 
 ## Climate Change, Adaptation and Development
 I have conducted an analysis of wetland restoration and development efforts in the Southern Iraqi Marshlands as a term paper for my senior seminar, Geographies of Climate Change and Adaptation. You can check out my final paper [here!](GEOG438/marshpolicy.pdf) This work is currently being continued as part of my senior research on climate change cartography and environmental mapping.
