@@ -12,13 +12,6 @@ layout: default
 5. [Spatial-temporal and content analysis of Twitter Data](twitter/report.md)
 6. [Spatial Accessibility of COVID-19 Healthcare Resources](kang/report.md)
 
-## Reflections on Open Source GIS
-1. [What is Open Source GIScience?](reflection/open-source.md)
-2. [GIS as a Replicable and Reproducable Science](reflection/blogpost-2.md)
-3. [Error and Uncertainty in GIScience](reflection/blogpost-3.md)
-4. [Spatial, Temporal, and Content Analysis of Twitter for Wildfire Hazards](reflection/blogpost-4.md)
-5. [Crowd-sourced and Volunteered Geographic Information](reflection/blogpost-5.md)
-6. [Reproducibility and Ethical Geospatial Reserach](reflection/blogpost-6.md)
 
 ## Cartography
 1. Otter View Park new Brochure [page 1](Cartography/OVP_page1.PNG) and [page 2](Cartography/OVP_page2.PNG)
@@ -34,3 +27,11 @@ I have conducted an analysis of wetland restoration and development efforts in t
 
 ## Remote Sensing
 I have expanding my experience in remote sensing through Remote Sensing and Land Use, and Remote Sensing for the Geosciences. This past spring, I worked for Professor Niwaeli Kimambo (Middlebury College Geography Department) on developing methods for detecting woodlot growth in Tanzania, with a focus on visualizing the detected results. The poster presentation for this work can be found [here,](RemoteSensing/SymposiumPoster.png) as well as a [photo](RemoteSensing/PosterSesh.jpeg) of our presentation at the Middlebury Spring Research Symposium. 
+
+## Reflections on GIS and Geospatial Research
+1. [What is Open Source GIScience?](reflection/open-source.md)
+2. [GIS as a Replicable and Reproducable Science](reflection/blogpost-2.md)
+3. [Error and Uncertainty in GIScience](reflection/blogpost-3.md)
+4. [Spatial, Temporal, and Content Analysis of Twitter for Wildfire Hazards](reflection/blogpost-4.md)
+5. [Crowd-sourced and Volunteered Geographic Information](reflection/blogpost-5.md)
+6. [Reproducibility and Ethical Geospatial Reserach](reflection/blogpost-6.md)
