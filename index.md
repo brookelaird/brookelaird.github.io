@@ -22,11 +22,15 @@ layout: default
 6. [The Power of Local Level Conservation](Cartography/localconservation.png)
 7. [Wetland Composition of Coastal Maine](Cartography/mainewetlands.png)
 
+## Remote Sensing
+I have expanding my experience in remote sensing through Remote Sensing and Land Use, and Remote Sensing for the Geosciences. This past spring, I worked for Professor Niwaeli Kimambo (Middlebury College Geography Department) on developing methods for detecting woodlot growth in Tanzania, with a focus on visualizing the detected results. The poster presentation for this work can be found [here,](RemoteSensing/SymposiumPoster.png) as well as a [photo](RemoteSensing/PosterSesh.jpeg) of our presentation at the Middlebury Spring Research Symposium. 
+
+I have experience working with remote sensing tools and satalite imagery analysis in Google Earth Engine (javascript), QGIS, ArcGIS, and Python Scripting. 
+
 ## Climate Change, Adaptation and Development
 I have conducted an analysis of wetland restoration and development efforts in the Southern Iraqi Marshlands as a term paper for my senior seminar, Geographies of Climate Change and Adaptation. You can check out my final paper [here!](GEOG438/marshpolicy.pdf) This work is currently being continued as part of my senior research on climate change cartography and environmental mapping.
 
-## Remote Sensing
-I have expanding my experience in remote sensing through Remote Sensing and Land Use, and Remote Sensing for the Geosciences. This past spring, I worked for Professor Niwaeli Kimambo (Middlebury College Geography Department) on developing methods for detecting woodlot growth in Tanzania, with a focus on visualizing the detected results. The poster presentation for this work can be found [here,](RemoteSensing/SymposiumPoster.png) as well as a [photo](RemoteSensing/PosterSesh.jpeg) of our presentation at the Middlebury Spring Research Symposium. 
+
 
 ## Reflections on GIS and Geospatial Research
 1. [What is Open Source GIScience?](reflection/open-source.md)
