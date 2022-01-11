@@ -22,7 +22,7 @@ layout: default
 
 ## Cartography
 1. Otter View Park new Brochure [page 1](Cartography/OVP_page1.PNG) and [page 2](Cartography/OVP_page2.PNG)
-2. [Willard's Woods Context Map](contextMap.PNG), 1/7 figures for a full Baseline Document Report
+2. [Willard's Woods Context Map](Cartography/contextMap.PNG), 1/7 figures for a full Baseline Document Report
 3. [Historic Redlining in the City of Boston](Cartography/bostonRedlining.png)
 4. [Solar Panel Site Selection](Cartography/sitedecision.png)
 5. [Development Challenges of Vermont's Natural Landscape](Cartography/solarDev.png)
