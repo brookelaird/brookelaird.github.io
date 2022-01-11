@@ -26,6 +26,7 @@ layout: default
 I have expanding my experience in remote sensing through Remote Sensing and Land Use, and Remote Sensing for the Geosciences. This past spring, I worked for Professor Niwaeli Kimambo (Middlebury College Geography Department) on developing methods for detecting woodlot growth in Tanzania, with a focus on visualizing the detected results. The poster presentation for this work can be found [here,](RemoteSensing/SymposiumPoster.png) as well as a [photo](RemoteSensing/PosterSesh.jpeg) of our presentation at the Middlebury Spring Research Symposium. 
 
 I have experience working with remote sensing tools and satalite imagery analysis in Google Earth Engine (javascript), QGIS, ArcGIS, and Python Scripting. 
+This past fall I helped assist with the creation of a new conservation plan for the town of Middlebury, with a personal focus on trail accessability. Final results will be shared soon, but for now you can view the python scripts and documentation [here](RemoteSensing/conservationPlan.zip)
 
 ## Climate Change, Adaptation and Development
 I have conducted an analysis of wetland restoration and development efforts in the Southern Iraqi Marshlands as a term paper for my senior seminar, Geographies of Climate Change and Adaptation. You can check out my final paper [here!](GEOG438/marshpolicy.pdf) This work is currently being continued as part of my senior research on climate change cartography and environmental mapping.
