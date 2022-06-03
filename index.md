@@ -23,7 +23,7 @@ layout: default
 7. [Wetland Composition of Coastal Maine](Cartography/mainewetlands.png)
 
 ## Mapping the Southern Marshes of Iraq
-As part of my senior thesis I have created a series of maps to tell the story of wetland history, destruction, and conservation in the marshes of Iraq. You can view my visuals below. 
+As part of my senior thesis I have created a series of maps to tell the story of wetland history, destruction, and conservation in the marshes of Iraq. You can view my visuals below. My entire thesis can be found [here](Laird_Thesis.pdf)
 1. [Narratives of Loss](Cartography/wetlandLossnarrative.png)
 2. [Historic Trade Routes and Livlihood Loss](Cartography/boatMapping_final.pdf)
 3. [Comparing Wetland Boundaries](Cartography/wetlandMap.png)
